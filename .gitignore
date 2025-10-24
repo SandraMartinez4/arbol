@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.env
+.idea/
+.vscode/
+.DS_Store
+
+# Python packaging
+dist/
+build/
+*.egg-info/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.so
+
+# ANTLR generated files and artifacts
+*.interp
+*.tokens
+antlr-*.jar
+
+# Django
+db.sqlite3
+/staticfiles/
